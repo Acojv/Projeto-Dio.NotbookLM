@@ -1,7 +1,7 @@
 
 
 OBJETIVO:
-Criei um segundo celebro baseado nos ensinamentos do MARtiN LUTHER KING. e suas conquistas para a raça Humana. Utilizando Plataforma da NotbookLM utilizei fontes de Atravez de Links de Videos e Tambem linkes de Textos com informações do Wikipedia. Baseado nessas fontes essa IA generativa Construiu Estruturas fenomenias e Inteligwntes para facil acesso de Trabalho Produtivo. Facilitando com Resumo baseadas nas fontes em LINK.
+
 
 
 FONTES DE VIDEO:
